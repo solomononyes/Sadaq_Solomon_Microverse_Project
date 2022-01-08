@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: antiquewhite;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#title {
+  font-size: 2.5rem;
+}
+#description {
+  color: crimson;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+form input {
+  /* display: block; */
+  margin: 5px auto;
+}
+form textarea {
+  display: block;
+  margin: auto;
+}
